@@ -1,0 +1,395 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "between": {
+      "between": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666710875263
+        }
+      }
+    },
+    "perceived": {
+      "perceived": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1666759292338
+        }
+      }
+    },
+    "declination": {
+      "declination": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1666759320310
+        }
+      }
+    },
+    "\\beta_p": {
+      "\\beta_p": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666710952874
+        }
+      }
+    },
+    "orientation": {
+      "orientation": {
+        "currentFile": {
+          "count": 8,
+          "lastUpdated": 1666759315564
+        }
+      }
+    },
+    "optical": {
+      "optical": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666711126075
+        }
+      }
+    },
+    "actual": {
+      "actual": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666711144185
+        }
+      }
+    },
+    "k\\cdot\\gamma": {
+      "k\\cdot\\gamma": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666711214840
+        }
+      }
+    },
+    "\\beta": {
+      "\\beta": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666711222391
+        }
+      }
+    },
+    "reliable": {
+      "reliable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666711336171
+        }
+      }
+    },
+    "consistent": {
+      "consistent": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666711357771
+        }
+      }
+    },
+    "Thoughts on the Study": {
+      "Thoughts on the Study": {
+        "internalLink": {
+          "count": 3,
+          "lastUpdated": 1666760672708
+        }
+      }
+    },
+    "obsidian": {
+      "obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666747182178
+        }
+      }
+    },
+    "different": {
+      "different": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666749141944
+        }
+      }
+    },
+    "constancy": {
+      "constancy": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666749425293
+        }
+      }
+    },
+    "between-subject": {
+      "between-subject": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666750634374
+        }
+      }
+    },
+    "experiment": {
+      "experiment": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1666761740008
+        }
+      }
+    },
+    "blinds": {
+      "blinds": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666750657490
+        }
+      }
+    },
+    "Observer-expectancy Effect": {
+      "Observer-expectancy Effect": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1666751825758
+        }
+      }
+    },
+    "wikipedia": {
+      "wikipedia": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666752826225
+        }
+      }
+    },
+    "Subject-expectancy_effect": {
+      "Subject-expectancy_effect": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666751943600
+        }
+      }
+    },
+    "Subject-expectancy Effect": {
+      "Subject-expectancy Effect": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1666752092646
+        }
+      }
+    },
+    "Design": {
+      "Design": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1666753132722
+        }
+      }
+    },
+    "within-subject": {
+      "within-subject": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666753143383
+        }
+      }
+    },
+    "Advantages": {
+      "Advantages": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666753165185
+        }
+      }
+    },
+    "participants": {
+      "participants": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1666758865773
+        }
+      }
+    },
+    "Disadvantages": {
+      "Disadvantages": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666753282663
+        }
+      }
+    },
+    "Methods": {
+      "Methods": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666758529212
+        }
+      }
+    },
+    "Results": {
+      "Results": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666758899486
+        }
+      }
+    },
+    "strategies": {
+      "strategies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666757219855
+        }
+      }
+    },
+    "factor": {
+      "factor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666757947183
+        }
+      }
+    },
+    "model": {
+      "model": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666757956501
+        }
+      }
+    },
+    "eye-in-head": {
+      "eye-in-head": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1666759317987
+        }
+      }
+    },
+    "Retrospect": {
+      "Retrospect": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666758074935
+        }
+      }
+    },
+    "stabilize": {
+      "stabilize": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666758120316
+        }
+      }
+    },
+    "Purpose": {
+      "Purpose": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666758413001
+        }
+      }
+    },
+    "environment": {
+      "environment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666758434320
+        }
+      }
+    },
+    "Participants": {
+      "Participants": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666758652231
+        }
+      }
+    },
+    "verbal": {
+      "verbal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666759028317
+        }
+      }
+    },
+    "matches": {
+      "matches": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666759030171
+        }
+      }
+    },
+    "perceptual": {
+      "perceptual": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1666759510526
+        }
+      }
+    },
+    "experience": {
+      "experience": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666759513235
+        }
+      }
+    },
+    "boards": {
+      "boards": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1666761694937
+        }
+      }
+    }
+  }
+}
