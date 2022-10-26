@@ -24,6 +24,6 @@
 
 # Questions
 
- - The discussion and conclusion part of the paper continuously mention the effect of coding efficiency. But this effect is not well discussed throughout the whole paper. What exactly is coding efficiency and how it is related to the perceptional error of optical slant?
+ - The discussion and conclusion part of the paper continuously mention the effect of coding efficiency. But this effect is not well discussed throughout the whole paper. What exactly is coding efficiency and how it is related to the perceptual error of optical slant?
  - The gain factor $k$ of the linear function of gaze declination and head orientation is well estimated. But what about the continuous function of optical slant ($f(\beta)$) ? How is it modeled and calculated?
  - Why is it OK to only require verbal estimates in [[Slope Perception Failure (Summary)#Experiment 2 A|Experiment 2 A]]? Is it intentional or due to the technological limitation of the VR device?

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md"
+                "file": "Cognitive Science/Perception/Thoughts on the Study.md"
               }
             }
           },
@@ -188,9 +188,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f2981aa2f9655281",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -202,9 +210,9 @@
   },
   "active": "f7422dcfc270b685",
   "lastOpenFiles": [
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
     "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
     "Daily/2022-10-26.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
     "Cognitive Science/Perception/Thoughts on the Study.md",
     "Cognitive Science/Side Notes/Subject-expectancy Effect.md",
     "Cognitive Science/Side Notes/Observer-expectancy Effect.md",
