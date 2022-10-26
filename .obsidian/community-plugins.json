@@ -12,5 +12,8 @@
   "obsidian-tasks-plugin",
   "obsidian-reminder-plugin",
   "obsidian-emoji-toolbar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mind-map",
+  "obsidian-memos",
+  "obsidian-dictionary-plugin"
 ]
