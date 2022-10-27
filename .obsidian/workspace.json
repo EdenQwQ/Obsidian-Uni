@@ -8,54 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7422dcfc270b685",
+            "id": "9789e0b371466be7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
+                "file": "Templates/Timestamp.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a51ec61a32eec042",
+            "id": "76eaaae1c2f832c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Side Notes/Observer-expectancy Effect.md",
+                "file": "Daily/2022-10-27.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5aa94f7c6521fce3",
+            "id": "3f0fe628ca49f243",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1fe7f464f621b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#psychology/cognitive-science/perception",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +155,15 @@
             }
           },
           {
-            "id": "8a7c4a6b7164d534",
+            "id": "f2981aa2f9655281",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7a6773c42f72645",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -182,18 +171,10 @@
             }
           },
           {
-            "id": "89ce2b7a3cde423b",
+            "id": "43d02dc7f7853109",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f2981aa2f9655281",
-            "type": "leaf",
-            "state": {
-              "type": "dictionary-view",
+              "type": "todo",
               "state": {}
             }
           }
@@ -202,23 +183,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 247
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "f7422dcfc270b685",
+  "active": "44629a51a47c4867",
   "lastOpenFiles": [
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Memory/Untitled.md",
+    "Daily/2022-10-27.md",
+    "Cognitive Science/Memory/similar-approach.pdf",
     "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
+    "Programming/C/Unary operator.md",
+    "Programming/C/Operator precedence.md",
+    "Programming/C/Data Structure Alignment.md",
     "Daily/2022-10-26.md",
-    "Cognitive Science/Perception/Thoughts on the Study.md",
-    "Cognitive Science/Side Notes/Subject-expectancy Effect.md",
-    "Cognitive Science/Side Notes/Observer-expectancy Effect.md",
-    "Cognitive Science/Side Notes/Confirmation Bias.md",
-    "Vocabulary/Untitled Kanban.md",
-    "Cognitive Science/Side Notes/Untitled.md",
-    "Untitled.md"
+    "Templates/Timestamp.md",
+    "Cognitive Science/Perception/Untitled.md"
   ]
 }

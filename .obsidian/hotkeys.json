@@ -1,12 +1,4 @@
 {
-  "enlightenment-obsidian:enable-enlightenment": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Z"
-    }
-  ],
   "switcher:open": [
     {
       "modifiers": [
@@ -55,6 +47,33 @@
         "Mod"
       ],
       "key": "."
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "I"
     }
   ]
 }
