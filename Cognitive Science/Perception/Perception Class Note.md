@@ -20,7 +20,7 @@ Perception is a subjective exploration of the environment. It extracts the immut
 
 Perception is direct and natural.
 
-E.g. Optical flow #todo
+E.g. [[Optical Flow]]
 
 # Perceptual Process
 

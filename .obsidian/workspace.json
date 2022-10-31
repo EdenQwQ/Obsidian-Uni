@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "543d94afeda1d1d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2022-10-28.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e298ec2a003fe32",
+            "id": "32f59f85863e0b6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,67 +20,31 @@
             }
           },
           {
-            "id": "6562425e6e0f3ff8",
+            "id": "07727bad04714ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Side Notes/Confirmation Bias.md",
+                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04ecc03816233f77",
+            "id": "74b665b718f143b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation Notes/损失厌恶的双维度模型.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75777250b05af2ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Timestamp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f17d073d654caad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2022-10-31.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c37f486f57c3ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
+                "file": "朋辈辅导/团辅理论.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
+                "file": "朋辈辅导/团辅理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md",
+                "file": "朋辈辅导/团辅理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Perception/Thoughts on the Study.md"
+                "file": "朋辈辅导/团辅理论.md"
               }
             }
           },
@@ -234,25 +186,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 247,
     "collapsed": true
   },
-  "active": "7c37f486f57c3ced",
+  "active": "74b665b718f143b2",
   "lastOpenFiles": [
-    "Cognitive Science/Side Notes/Confirmation Bias.md",
-    "Cognitive Science/Perception/Discussions on Slope Perception.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Perception/Slope Perception Discussions.md",
     "Cognitive Science/Perception/Perception Class Note.md",
-    "Cognitive Science/Perception/Thoughts on the Study.md",
-    "Daily/2022-10-29.md",
-    "Daily/2022-10-28.md",
-    "Daily/2022-10-30.md",
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
+    "Cognitive Science/Side Notes/Optical Flow.md",
+    "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
     "Daily/2022-10-31.md",
-    "Daily/2022-10-27.md"
+    "Cognitive Science/Perception/Thoughts on the Study.md",
+    "Daily/2022-10-30.md",
+    "Daily/2022-10-29.md"
   ]
 }

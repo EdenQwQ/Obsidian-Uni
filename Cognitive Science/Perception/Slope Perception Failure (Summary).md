@@ -159,4 +159,4 @@ Hills look steeper when standing back from the edge and looking along them than 
 
 # [[Thoughts on the Study]]
 
-# [[Discussions on Slope Perception]]
+# [[Slope Perception Discussions]]
