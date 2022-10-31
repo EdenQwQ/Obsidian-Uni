@@ -1,4 +1,31 @@
 {
   "vimMode": true,
-  "spellcheck": true
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "Zhi",
+    "Zhi",
+    "Sizeof",
+    "Hu",
+    "Von",
+    "Kanizsa",
+    "gestaltism",
+    "configurationism",
+    "Wundt",
+    "elementalist",
+    "Prägnanz",
+    "Prägnanz",
+    " As Ko",
+    "Koffka",
+    "temporospatial",
+    "Optogenetic",
+    "optogenetic",
+    "ptogenetic ",
+    "ptogenetic ",
+    "thalamocortical",
+    "orospatial res",
+    "Zorin",
+    "59 Tr"
+  ],
+  "showFrontmatter": true,
+  "showLineNumber": true
 }

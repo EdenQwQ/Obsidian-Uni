@@ -24,5 +24,11 @@
   "templater-obsidian",
   "obsidian-checklist-plugin",
   "tag-wrangler",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-better-command-palette",
+  "obsidian-languagetool-plugin",
+  "quick-latex",
+  "obsidian-relative-line-numbers",
+  "nldates-obsidian",
+  "obsidian-pandoc"
 ]

@@ -32,5 +32,7 @@ Precedence|Operator|Description|
 ^^|a+=b a-=b a*=b a/=b a%=b a<<=b a>>=b a&=b a^=b a\|=b|assignment|
 15|a,b|comma|
 ```
+
 [[Data Structure Alignment]]
+
 [[Unary operator]]

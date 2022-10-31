@@ -1,0 +1,25 @@
+{
+  "closeWithBackspace": true,
+  "showPluginName": true,
+  "fileSearchPrefix": "/",
+  "tagSearchPrefix": "#",
+  "suggestionLimit": 50,
+  "recentAbovePinned": false,
+  "hyperKeyOverride": false,
+  "macros": [
+    {
+      "name": "Focus Mode",
+      "commandIds": [
+        "obsidian-focus-mode:toggle-focus-mode",
+        "obsidian-hider:toggle-tab-containers"
+      ],
+      "delay": 200
+    }
+  ],
+  "hotkeyStyle": "auto",
+  "createNewFileMod": "Mod",
+  "createNewPaneMod": "Shift",
+  "hiddenCommands": [],
+  "hiddenFiles": [],
+  "hiddenTags": []
+}
