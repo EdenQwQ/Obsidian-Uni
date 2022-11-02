@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "786c5b4ec8382b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Psychology/意识和注意.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
+                "file": "General Psychology/意识和注意.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
+                "file": "General Psychology/意识和注意.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md"
+                "file": "General Psychology/意识和注意.md"
               }
             }
           },
@@ -182,14 +194,14 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "bfbe62d856ecfce0",
+  "active": "786c5b4ec8382b81",
   "lastOpenFiles": [
+    "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
     "Daily/2022-11-02.md",
     "Daily/2022-11-01.md",
     "Programming/C/Data Structure Alignment.md",
     "Obsidian/Basic Markdown Syntax.md",
     "Obsidian/Advanced Slides Extended Syntax.md",
-    "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
     "Cognitive Science/Perception/Perception Class Note.md",
     "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
     "Cognitive Science/Perception/Thoughts on the Study.md",
