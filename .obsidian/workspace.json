@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Psychology/意识和注意.md",
+                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "381ee5e750d860b0",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Psychology/意识和注意.md",
+                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Psychology/意识和注意.md",
+                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Psychology/意识和注意.md"
+                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md"
               }
             }
           },
@@ -197,14 +196,14 @@
   "active": "786c5b4ec8382b81",
   "lastOpenFiles": [
     "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
+    "General Psychology/意识和注意.md",
+    "Cognitive Science/Perception/Perception Class Note.md",
+    "朋辈辅导/团辅理论.md",
     "Daily/2022-11-02.md",
     "Daily/2022-11-01.md",
     "Programming/C/Data Structure Alignment.md",
     "Obsidian/Basic Markdown Syntax.md",
     "Obsidian/Advanced Slides Extended Syntax.md",
-    "Cognitive Science/Perception/Perception Class Note.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
-    "Cognitive Science/Perception/Thoughts on the Study.md",
-    "Cognitive Science/Side Notes/Gestalt Psychology.md"
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md"
   ]
 }
