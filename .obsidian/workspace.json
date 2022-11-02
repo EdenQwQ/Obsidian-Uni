@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cdad1d05ae644e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation Notes/胡玉正组会/磁共振成像技术前沿.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51198804415ea8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation Notes/方霞组会/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
+                "file": "Presentation Notes/方霞组会/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
+                "file": "Presentation Notes/方霞组会/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md"
+                "file": "Presentation Notes/方霞组会/Untitled.md"
               }
             }
           },
@@ -193,17 +217,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "786c5b4ec8382b81",
+  "active": "51198804415ea8b2",
   "lastOpenFiles": [
+    "Presentation Notes/讲座/损失厌恶的双维度模型.md",
+    "Presentation Notes/方霞组会/Untitled.md",
+    "Presentation Notes/胡玉正组会/磁共振成像技术前沿.md",
+    "Presentation Notes/Untitled.md",
+    "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
     "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
     "General Psychology/意识和注意.md",
     "Cognitive Science/Perception/Perception Class Note.md",
     "朋辈辅导/团辅理论.md",
-    "Daily/2022-11-02.md",
-    "Daily/2022-11-01.md",
-    "Programming/C/Data Structure Alignment.md",
-    "Obsidian/Basic Markdown Syntax.md",
-    "Obsidian/Advanced Slides Extended Syntax.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md"
+    "Daily/2022-11-02.md"
   ]
 }
