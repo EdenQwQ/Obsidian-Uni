@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dc3070c3fae18d38",
+        "id": "b5e9a4b1468b371e",
         "type": "tabs",
         "children": [
           {
-            "id": "32f59f85863e0b6f",
+            "id": "76bc73a20b23e34c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Perception/Perception Class Note.md",
+                "file": "Obsidian/Basic Markdown Syntax.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07727bad04714ee3",
+            "id": "bfbe62d856ecfce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74b665b718f143b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "朋辈辅导/团辅理论.md",
+                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "381ee5e750d860b0",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "朋辈辅导/团辅理论.md",
+                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "朋辈辅导/团辅理论.md",
+                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "朋辈辅导/团辅理论.md"
+                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md"
               }
             }
           },
@@ -193,17 +182,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "74b665b718f143b2",
+  "active": "bfbe62d856ecfce0",
   "lastOpenFiles": [
-    "Cognitive Science/Perception/Slope Perception Discussions.md",
+    "Daily/2022-11-02.md",
+    "Daily/2022-11-01.md",
+    "Programming/C/Data Structure Alignment.md",
+    "Obsidian/Basic Markdown Syntax.md",
+    "Obsidian/Advanced Slides Extended Syntax.md",
+    "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
     "Cognitive Science/Perception/Perception Class Note.md",
     "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
-    "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
-    "Cognitive Science/Side Notes/Optical Flow.md",
-    "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
-    "Daily/2022-10-31.md",
     "Cognitive Science/Perception/Thoughts on the Study.md",
-    "Daily/2022-10-30.md",
-    "Daily/2022-10-29.md"
+    "Cognitive Science/Side Notes/Gestalt Psychology.md"
   ]
 }

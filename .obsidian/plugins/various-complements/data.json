@@ -750,6 +750,86 @@
           "lastUpdated": 1667194985460
         }
       }
+    },
+    "Lists": {
+      "Lists": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667229781796
+        }
+      }
+    },
+    "Tables": {
+      "Tables": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667230935224
+        }
+      }
+    },
+    "tables": {
+      "tables": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1667230966617
+        }
+      }
+    },
+    "\\begin{pmatrix}a": {
+      "\\begin{pmatrix}a": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667231269644
+        }
+      }
+    },
+    "\\end{pmatrix}": {
+      "\\end{pmatrix}": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667231274298
+        }
+      }
+    },
+    "Mermaid": {
+      "Mermaid": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667261878274
+        }
+      }
+    },
+    "Advanced Slides Extended Syntax": {
+      "Advanced Slides Extended Syntax": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1667262525778
+        }
+      }
+    },
+    "Annotations": {
+      "Annotations": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667295885666
+        }
+      }
+    },
+    "#1e1e2e": {
+      "#1e1e2e": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1667309539832
+        }
+      }
+    },
+    "https://picsum.photos/seed/picsum/800/600": {
+      "https://picsum.photos/seed/picsum/800/600": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1667309858177
+        }
+      }
     }
   }
 }
