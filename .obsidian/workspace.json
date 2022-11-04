@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md",
+                "file": "General Psychology/意识和注意.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecba10a7b89bdb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Psychology/意识和注意.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md",
+                "file": "General Psychology/意识和注意.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md",
+                "file": "General Psychology/意识和注意.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md"
+                "file": "General Psychology/意识和注意.md"
               }
             }
           },
@@ -247,24 +259,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 247,
     "collapsed": true
   },
-  "active": "fc36c0be5ce370e6",
+  "active": "ecba10a7b89bdb8e",
   "lastOpenFiles": [
-    "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md",
-    "Presentation Notes/方霞组会/Past Event Effects Emotion Towards Current Situation.md",
-    "Presentation Notes/方霞组会/杜氏标记对情绪感知的作用是感知强度还是真实性.md",
-    "Presentation Notes/方霞组会/Head Position Effects the Perception of Emotion.md",
-    "Presentation Notes/胡玉正组会/磁共振成像技术前沿.md",
-    "Presentation Notes/讲座/损失厌恶的双维度模型.md",
-    "Presentation Notes/Untitled.md",
-    "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
     "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
-    "General Psychology/意识和注意.md"
+    "Daily/2022-11-04.md",
+    "Cognitive Science/Side Notes/Confirmation Bias.md",
+    "Cognitive Science/Side Notes/Observer-expectancy Effect.md",
+    "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Perception/Slope Perception Discussions.md",
+    "Cognitive Science/Perception/Perception Class Note.md",
+    "Cognitive Science/Attention/Attention Class Note.md",
+    "theinvisiblegorilla.com.md"
   ]
 }

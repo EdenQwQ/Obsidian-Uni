@@ -8,7 +8,7 @@
 
 Previously low expectations lead to more positive emotions after an outcome is known.
 
-## Negative Bias #todo 
+- Negative Bias
 
 PP > NP > PN > NN
 reliance on past
