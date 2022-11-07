@@ -114,9 +114,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dc101b3e43b0914b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation Notes/胡玉正组会/The Cerebellum and Cognitive Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c555d9ac2bba6ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c55bb60548f343f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Attention/Attention Class Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -182,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Psychology/意识和注意.md",
+                "file": "Cognitive Science/Attention/Attention Class Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Psychology/意识和注意.md",
+                "file": "Cognitive Science/Attention/Attention Class Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Psychology/意识和注意.md"
+                "file": "Cognitive Science/Attention/Attention Class Note.md"
               }
             }
           },
@@ -266,17 +302,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "ecba10a7b89bdb8e",
+  "active": "6c55bb60548f343f",
   "lastOpenFiles": [
-    "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
+    "Daily/2022-11-07.md",
+    "Daily/2022-11-06.md",
+    "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
+    "Daily/2022-11-05.md",
+    "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
+    "Presentation Notes/胡玉正组会/The Cerebellum and Cognitive Function.md",
+    "Presentation Notes/胡玉正组会/磁共振成像技术前沿.md",
     "Daily/2022-11-04.md",
-    "Cognitive Science/Side Notes/Confirmation Bias.md",
-    "Cognitive Science/Side Notes/Observer-expectancy Effect.md",
-    "Cognitive Science/Side Notes/Between-subject Design & Within-subject Design.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
-    "Cognitive Science/Perception/Slope Perception Discussions.md",
-    "Cognitive Science/Perception/Perception Class Note.md",
-    "Cognitive Science/Attention/Attention Class Note.md",
-    "theinvisiblegorilla.com.md"
+    "Daily/2022-10-26.md",
+    "Daily/2022-10-27.md"
   ]
 }

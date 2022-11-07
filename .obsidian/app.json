@@ -31,7 +31,12 @@
     "NN",
     "swhkd",
     "xdotool",
-    "Inattentional"
+    "Inattentional",
+    "Flocculonodular",
+    "parcellation",
+    "Parcellation",
+    "mentalizing",
+    "mentalizing"
   ],
   "showFrontmatter": true,
   "showLineNumber": true

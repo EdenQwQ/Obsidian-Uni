@@ -57,3 +57,32 @@
 	- 衰减模型
 		- 注意不是过滤，而是减弱非注意信息，这些信息即使强度衰减了也可能得到高级加工
 		- 阈限：信号很弱也可以得到注意（如自己的名字）
+	- 两种模型的相同之处
+		- 人类信息加工系统的容量有限
+		- 过滤器位于初级分析和高级意义分析之间，注意的作用是选择一部分信息进入高级知觉分析水平，即知觉信息的选择
+- 反应选择模型 Response-selection Model 
+	- 注意的作用不在于选择知觉刺激，而是选择对刺激的反应，人们依据刺激的重要性来选择输出内容
+	- Late Selection: Messages are selected after their meaning is processed
+- 认知资源理论
+	- 注意不是一个容量有限的加工通道，而是一组对刺激进行归类和识别的认知资源或认知能力
+	- 这些认知资源是有限的。对刺激的识别需要占用认知资源，当刺激越复杂或加工任务越复杂时，占用的认知资源就越多
+	- 当认知资源完全被占用时，新的刺激将得不到加工。输入刺激本身并不能自动地占用资源，而是在认知系统内有一个机制负责资源的分配
+- 双加工理论 Dual Process Theory
+	- 自动加工 Automatic Processing ：自动地进行，不需要注意，不受认知资源限制
+	- 控制加工：受意识控制，需要注意，受认知资源的限制
+- [特征整合理论](https://en.wikipedia.org/wiki/Feature_integration_theory) Feature Integration Theory
+	- Features are "registered early, automatically, and in parallel, while objects are identified separately"
+	- 范式：Visual Search
+	- 证明是否并行：改变刺激数量，反应时长几乎不变
+	- Feature search is parallel (pre-attention) but conjunction search needs focal attention
+	- Attention allows features to be integrated together in the "conscious focus"
+
+## Stabalization of Attention
+
+#todo 
+
+## Distribution of Attention
+
+- Spatial Attention
+- Feature-based Attention 
+- Object-based Attention
