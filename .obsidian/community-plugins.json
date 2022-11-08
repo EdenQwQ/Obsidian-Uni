@@ -2,7 +2,6 @@
   "obsidian-style-settings",
   "obsidian-focus-mode",
   "folder-note-plugin",
-  "obsidian-kanban",
   "enlightenment-obsidian",
   "obsidian-hotkeys-chords",
   "calendar",
@@ -24,7 +23,6 @@
   "templater-obsidian",
   "obsidian-checklist-plugin",
   "tag-wrangler",
-  "better-word-count",
   "obsidian-better-command-palette",
   "obsidian-languagetool-plugin",
   "quick-latex",
@@ -33,5 +31,7 @@
   "obsidian-pandoc",
   "darlal-switcher-plus",
   "text-snippets-obsidian",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian42-brat",
+  "obsidian-bionic-reading-plugin"
 ]

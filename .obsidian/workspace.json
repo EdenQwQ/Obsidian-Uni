@@ -150,9 +150,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9eef99271e166973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Bionic Reading/关于Bionic Reading的研究可行性的想法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db2d3c85208ed276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Attention/Attention Class Note.md",
+                "file": "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Attention/Attention Class Note.md",
+                "file": "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Attention/Attention Class Note.md"
+                "file": "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md"
               }
             }
           },
@@ -302,17 +326,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "6c55bb60548f343f",
+  "active": "db2d3c85208ed276",
   "lastOpenFiles": [
-    "Daily/2022-11-07.md",
-    "Daily/2022-11-06.md",
     "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
-    "Daily/2022-11-05.md",
-    "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
-    "Presentation Notes/胡玉正组会/The Cerebellum and Cognitive Function.md",
-    "Presentation Notes/胡玉正组会/磁共振成像技术前沿.md",
-    "Daily/2022-11-04.md",
-    "Daily/2022-10-26.md",
-    "Daily/2022-10-27.md"
+    "Daily/2022-11-08.md",
+    "Concepts/Bionic Reading/Test for Bionic Reading.md",
+    "Concepts/Bionic Reading/关于Bionic Reading的研究可行性的想法.md",
+    "Daily/2022-11-07.md",
+    "Daily/2022-10-28.md",
+    "Cognitive Science/Attention/Attention Class Note.md",
+    "Programming/C/Unary operator.md",
+    "Programming/C/Operator precedence.md",
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md"
   ]
 }

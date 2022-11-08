@@ -2,8 +2,8 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Catppuccin",
-  "interfaceFontFamily": "LXGW WenKai,Noto Color Emoji",
-  "monospaceFontFamily": "ComicMono Nerd Font,LXGW WenKai Mono,Noto Color Emoji",
-  "textFontFamily": "LXGW WenKai,Noto Color Emoji",
+  "interfaceFontFamily": "ComicMono Nerd Font,Comfortaa,LXGW WenKai,Noto Color Emoji",
+  "monospaceFontFamily": "LXGW WenKai Mono,ComicMono Nerd Font,Noto Color Emoji",
+  "textFontFamily": "ComicMono Nerd Font,LXGW WenKai,Comfortaa,Noto Color Emoji",
   "nativeMenus": false
 }

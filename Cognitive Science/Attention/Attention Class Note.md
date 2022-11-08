@@ -77,7 +77,7 @@
 	- Feature search is parallel (pre-attention) but conjunction search needs focal attention
 	- Attention allows features to be integrated together in the "conscious focus"
 
-## Stabalization of Attention
+## Stabality of Attention
 
 #todo 
 
@@ -86,3 +86,23 @@
 - Spatial Attention
 - Feature-based Attention 
 - Object-based Attention
+	- Brian Scholl #todo
+
+## Attention Disorder 
+
+### Attention Deficit Hyperactivity Disorder (ADHD) 注意缺陷多动障碍
+
+#todo
+
+### Hemi-neglect 单侧忽视
+
+#todo
+
+## Modern Researches
+
+Attentional allocation model 
+- spotlight
+- zoom lens
+- gradient models
+
+记忆编码损耗理论 #todo

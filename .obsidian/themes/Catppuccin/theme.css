@@ -23,8 +23,8 @@ body {
   --blockquote-color: var(--color-base-70);
   --blockquote-background-color: transparent;
   /* Bold */
-  --bold-weight: var(--font-semibold);
-  --bold-color: var(--color-accent);
+  --bold-weight: var(--font-bold);
+  --bold-color: var(--color-base-100);
   /* Borders */
   --border-width: 1px;
   /* Buttons */
