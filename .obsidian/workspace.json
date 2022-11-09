@@ -193,14 +193,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "思考人生/李烁安的反馈建议.md",
+                "file": "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4060adb443da38e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Perception/Perception Class Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "思考人生/李烁安的反馈建议.md",
+                "file": "Cognitive Science/Perception/Perception Class Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "思考人生/李烁安的反馈建议.md",
+                "file": "Cognitive Science/Perception/Perception Class Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "思考人生/李烁安的反馈建议.md"
+                "file": "Cognitive Science/Perception/Perception Class Note.md"
               }
             }
           },
@@ -350,17 +362,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "792f7f4bc6ecef7d",
+  "active": "89da99c9901ea9ac",
   "lastOpenFiles": [
-    "Templates/Timestamp.md",
+    "Cognitive Science/Perception/Slope Perception Discussions.md",
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Perception/Thoughts on the Study.md",
     "Concepts/Bionic Reading/Bionic Reading Research Proposal.md",
-    "Concepts/Untitled.md",
-    "Concepts/Bionic Reading/关于Bionic Reading的研究可行性的想法.md",
-    "Concepts/Bionic Reading/Test for Bionic Reading.md",
-    "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
+    "Cognitive Science/Attention/Attention Class Note.md",
     "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
+    "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
+    "General Psychology/意识和注意.md",
     "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.pdf",
-    "Daily/2022-11-09.md",
-    "Daily/2022-11-08.md"
+    "思考人生/李烁安的反馈建议.md"
   ]
 }
