@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f465304bac82119c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Perception/Perception Class Note.md",
+                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Perception/Perception Class Note.md",
+                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Perception/Perception Class Note.md"
+                "file": "Cognitive Science/Perception/Slope Perception Discussions.md"
               }
             }
           },
@@ -362,17 +374,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "89da99c9901ea9ac",
+  "active": "f465304bac82119c",
   "lastOpenFiles": [
-    "Cognitive Science/Perception/Slope Perception Discussions.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
     "Cognitive Science/Perception/Thoughts on the Study.md",
-    "Concepts/Bionic Reading/Bionic Reading Research Proposal.md",
-    "Cognitive Science/Attention/Attention Class Note.md",
-    "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Perception/Slope Perception Discussions.md",
+    "Cognitive Science/Perception/Perception Class Note.md",
     "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
-    "General Psychology/意识和注意.md",
     "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.pdf",
-    "思考人生/李烁安的反馈建议.md"
+    "Daily/2022-11-10.md",
+    "Daily/2022-11-09.md",
+    "Daily/2022-11-08.md",
+    "General Psychology/思维.md"
   ]
 }

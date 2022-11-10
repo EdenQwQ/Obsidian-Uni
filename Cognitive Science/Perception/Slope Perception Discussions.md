@@ -17,3 +17,9 @@ The experiment aims to figure out the qualitative relationship between the perce
 >While all the dots are above the reference line in Figure 2, why are some dots under the reference line in Figure 10?
 
 This is related to [[Slope Perception Discussions#Q2]]. Data in [[Slope Perception Failure (Summary)#Experiment 1|Experiment 1]] are measured by using the matching slope, while the ones in [[Slope Perception Failure (Summary)#Experiment 3 A|Experiment 3 A]] are by using the line on the screen. The measurement is different, and each has bias. The data are okay to use as long as they show a difference between far and near groups.
+
+# Q4
+
+>What is code efficiency mentioned in the article's discussion part? How is it related to the content?
+
+

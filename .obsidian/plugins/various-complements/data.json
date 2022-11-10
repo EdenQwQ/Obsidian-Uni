@@ -1062,6 +1062,38 @@
           "lastUpdated": 1667868975720
         }
       }
+    },
+    "image": {
+      "image": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1667977644641
+        }
+      }
+    },
+    "2022-11-10": {
+      "2022-11-10": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1668072770112
+        }
+      }
+    },
+    "Slope Perception Discussions": {
+      "Slope Perception Discussions": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1668073150300
+        }
+      }
+    },
+    "related": {
+      "related": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1668073093908
+        }
+      }
     }
   }
 }
