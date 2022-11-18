@@ -4,227 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b5e9a4b1468b371e",
+        "id": "82d13888747ce9a6",
         "type": "tabs",
         "children": [
           {
-            "id": "76bc73a20b23e34c",
+            "id": "60ec32e8a86d9065",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Basic Markdown Syntax.md",
+                "file": "Cognitive Science/Memory/报告大纲.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bfbe62d856ecfce0",
+            "id": "f84a99d279cf6f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Psychology/人类记忆与计算机存储(硬盘)系统的异同.md",
+                "file": "Presentation Notes/方霞组会/不同文化中的幽默欣赏与社会距离.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "786c5b4ec8382b81",
+            "id": "eb87a519ef0be4b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cdad1d05ae644e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Notes/胡玉正组会/磁共振成像技术前沿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "51198804415ea8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Notes/方霞组会/Head Position Effects the Perception of Emotion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11bb7430d79e92e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Notes/方霞组会/杜氏标记对情绪感知的作用是感知强度还是真实性.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd41d65f083b249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Notes/方霞组会/Past Event Effects Emotion Towards Current Situation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc36c0be5ce370e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Psychology/意识和注意.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecba10a7b89bdb8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Psychology/意识和注意.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc101b3e43b0914b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation Notes/胡玉正组会/The Cerebellum and Cognitive Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c555d9ac2bba6ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c55bb60548f343f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Attention/Attention Class Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eef99271e166973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Bionic Reading/关于Bionic Reading的研究可行性的想法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2d3c85208ed276",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Bionic Reading/关于Bionic Reading的研究可行性的想法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "283cd88589e45a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Timestamp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "792f7f4bc6ecef7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4060adb443da38e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Perception/Perception Class Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f465304bac82119c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
+                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -290,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
+                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Discussions.md",
+                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Discussions.md"
+                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md"
               }
             }
           },
@@ -374,17 +194,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "f465304bac82119c",
+  "active": "eb87a519ef0be4b0",
   "lastOpenFiles": [
-    "Cognitive Science/Perception/Thoughts on the Study.md",
-    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
-    "Cognitive Science/Perception/Slope Perception Discussions.md",
-    "Cognitive Science/Perception/Perception Class Note.md",
-    "Cognitive Science/Experiments/核磁/核磁游戏实验.md",
-    "Cognitive Science/Experiments/正念脑电/正念脑电实验被试费报销附件.pdf",
-    "Daily/2022-11-10.md",
-    "Daily/2022-11-09.md",
-    "Daily/2022-11-08.md",
-    "General Psychology/思维.md"
+    "Presentation Notes/方霞组会/Head Position Effects the Perception of Emotion.md",
+    "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
+    "Presentation Notes/方霞组会/Past Event Effects Emotion Towards Current Situation.md",
+    "Presentation Notes/方霞组会/杜氏标记对情绪感知的作用是感知强度还是真实性.md",
+    "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md",
+    "Presentation Notes/方霞组会/不同文化中的幽默欣赏与社会距离.md",
+    "Cognitive Science/Memory/报告大纲.md",
+    "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
+    "Cognitive Science/Memory/Memory Class Notes.md",
+    "Daily/2022-11-18.md"
   ]
 }

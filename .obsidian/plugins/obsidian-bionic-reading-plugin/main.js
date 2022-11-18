@@ -3991,36 +3991,36 @@ var require_dfa_minimizer = __commonJS({
             var _iteratorError4 = void 0;
             try {
               restSets:
-                for (var _iterator4 = rest[Symbol.iterator](), _step4; !(_iteratorNormalCompletion4 = (_step4 = _iterator4.next()).done); _iteratorNormalCompletion4 = true) {
-                  var state = _step4.value;
-                  var _iteratorNormalCompletion5 = true;
-                  var _didIteratorError5 = false;
-                  var _iteratorError5 = void 0;
-                  try {
-                    for (var _iterator5 = Object.keys(handledStates)[Symbol.iterator](), _step5; !(_iteratorNormalCompletion5 = (_step5 = _iterator5.next()).done); _iteratorNormalCompletion5 = true) {
-                      var handledState = _step5.value;
-                      if (areEquivalent(state, handledState, table, alphabet)) {
-                        handledStates[handledState].add(state);
-                        handledStates[state] = handledStates[handledState];
-                        continue restSets;
-                      }
-                    }
-                  } catch (err) {
-                    _didIteratorError5 = true;
-                    _iteratorError5 = err;
-                  } finally {
-                    try {
-                      if (!_iteratorNormalCompletion5 && _iterator5.return) {
-                        _iterator5.return();
-                      }
-                    } finally {
-                      if (_didIteratorError5) {
-                        throw _iteratorError5;
-                      }
+              for (var _iterator4 = rest[Symbol.iterator](), _step4; !(_iteratorNormalCompletion4 = (_step4 = _iterator4.next()).done); _iteratorNormalCompletion4 = true) {
+                var state = _step4.value;
+                var _iteratorNormalCompletion5 = true;
+                var _didIteratorError5 = false;
+                var _iteratorError5 = void 0;
+                try {
+                  for (var _iterator5 = Object.keys(handledStates)[Symbol.iterator](), _step5; !(_iteratorNormalCompletion5 = (_step5 = _iterator5.next()).done); _iteratorNormalCompletion5 = true) {
+                    var handledState = _step5.value;
+                    if (areEquivalent(state, handledState, table, alphabet)) {
+                      handledStates[handledState].add(state);
+                      handledStates[state] = handledStates[handledState];
+                      continue restSets;
                     }
                   }
-                  handledStates[state] = new Set([state]);
+                } catch (err) {
+                  _didIteratorError5 = true;
+                  _iteratorError5 = err;
+                } finally {
+                  try {
+                    if (!_iteratorNormalCompletion5 && _iterator5.return) {
+                      _iterator5.return();
+                    }
+                  } finally {
+                    if (_didIteratorError5) {
+                      throw _iteratorError5;
+                    }
+                  }
                 }
+                handledStates[state] = new Set([state]);
+              }
             } catch (err) {
               _didIteratorError4 = true;
               _iteratorError4 = err;
@@ -5529,7 +5529,7 @@ var RegExpCursor = class {
       this.getLine(0);
   }
   next() {
-    for (let off = this.matchPos - this.curLineStart; ; ) {
+    for (let off = this.matchPos - this.curLineStart; ;) {
       this.re.lastIndex = off;
       let match = this.matchPos <= this.to && (0, import_regexp_match_indices.default)(this.re, this.curLine);
       if (match) {
@@ -5627,7 +5627,7 @@ var DEFAULT_SETTINGS = {
 };
 var BionicReadingPlugin = class extends import_obsidian2.Plugin {
   onload() {
-    return __async(this, null, function* () {
+    return __async(this, null, function*() {
       yield this.loadSettings();
       this.setupStatusBar();
       this.addSettingTab(new BionicReadingSettingTab(this.app, this));
@@ -5646,7 +5646,7 @@ var BionicReadingPlugin = class extends import_obsidian2.Plugin {
         item.setIcon("book");
         const itemDom = item.dom;
         const toggleComponent = new import_obsidian2.ToggleComponent(itemDom).setValue(this.settings.bionicReadingMode).setDisabled(true);
-        const toggle = () => __async(this, null, function* () {
+        const toggle = () => __async(this, null, function*() {
           this.settings.bionicReadingMode = !this.settings.bionicReadingMode;
           toggleComponent.setValue(this.settings.bionicReadingMode);
           this.statusBarEl.setText(this.settings.bionicReadingMode ? "BioRead Mode" : "Normal Mode");
@@ -5670,12 +5670,12 @@ var BionicReadingPlugin = class extends import_obsidian2.Plugin {
   onunload() {
   }
   loadSettings() {
-    return __async(this, null, function* () {
+    return __async(this, null, function*() {
       this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
     });
   }
   saveSettings() {
-    return __async(this, null, function* () {
+    return __async(this, null, function*() {
       yield this.saveData(this.settings);
     });
   }
@@ -5697,7 +5697,7 @@ var BionicReadingSettingTab = class extends import_obsidian2.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("h2", { text: "\u{1F4DA} Bionic Reading" });
-    new import_obsidian2.Setting(containerEl).setName("Toggle bionic reading mode").setDesc("Toggle this to enable bionic reading mode. You can also toogle this in status bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.bionicReadingMode).onChange((value) => __async(this, null, function* () {
+    new import_obsidian2.Setting(containerEl).setName("Toggle bionic reading mode").setDesc("Toggle this to enable bionic reading mode. You can also toogle this in status bar.").addToggle((toggle) => toggle.setValue(this.plugin.settings.bionicReadingMode).onChange((value) => __async(this, null, function*() {
       this.plugin.settings.bionicReadingMode = value;
       this.applySettingsUpdate();
     })));

@@ -22,4 +22,4 @@ This is related to [[Slope Perception Discussions#Q2]]. Data in [[Slope Percepti
 
 >What is code efficiency mentioned in the article's discussion part? How is it related to the content?
 
-
+人们正常情况下只需要关注平行方向上下小角度倾斜的斜面，因为倾斜角度过大的斜面是人类不应该去走的，所以这部分斜面在编码上精度不高。这也解释了为什么[[Slope Perception Failure (Summary)#Experiment 1]]中浅板被夸大得不明显。
