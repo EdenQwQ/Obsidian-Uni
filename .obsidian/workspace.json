@@ -4,47 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "82d13888747ce9a6",
+        "id": "83bdbebe5cb7202f",
         "type": "tabs",
         "children": [
           {
-            "id": "60ec32e8a86d9065",
+            "id": "dff41764e43574ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cognitive Science/Memory/报告大纲.md",
+                "file": "思考人生/求心2201\"学点没用的\"主题班课计划书.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f84a99d279cf6f0d",
+            "id": "f2d697154a644c17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation Notes/方霞组会/不同文化中的幽默欣赏与社会距离.md",
+                "file": "General Psychology/动机.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb87a519ef0be4b0",
+            "id": "c9354274084649bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
+                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de37606cb60885e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "381ee5e750d860b0",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
+                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
+                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md"
+                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md"
               }
             }
           },
@@ -171,18 +184,18 @@
             }
           },
           {
-            "id": "e7a6773c42f72645",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
             "id": "43d02dc7f7853109",
             "type": "leaf",
             "state": {
               "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "86ea71b5b13b7674",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
               "state": {}
             }
           }
@@ -194,17 +207,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "eb87a519ef0be4b0",
+  "active": "44629a51a47c4867",
   "lastOpenFiles": [
-    "Presentation Notes/方霞组会/Head Position Effects the Perception of Emotion.md",
-    "Presentation Notes/方霞组会/Improvement in Reading the Mind in the Eyes During the COVID-19 Pandemic.md",
-    "Presentation Notes/方霞组会/Past Event Effects Emotion Towards Current Situation.md",
-    "Presentation Notes/方霞组会/杜氏标记对情绪感知的作用是感知强度还是真实性.md",
-    "Presentation Notes/方霞组会/不同注视模式都可以成功识别情绪.md",
-    "Presentation Notes/方霞组会/不同文化中的幽默欣赏与社会距离.md",
-    "Cognitive Science/Memory/报告大纲.md",
-    "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
-    "Cognitive Science/Memory/Memory Class Notes.md",
-    "Daily/2022-11-18.md"
+    "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
+    "Cognitive Science/Perception/Slope Perception Discussions.md",
+    "Cognitive Science/Decision/Decision Class Notes.md",
+    "General Psychology/动机.md",
+    "General Psychology/语言.md",
+    "General Psychology/意识和注意.md",
+    "General Psychology/思维.md",
+    "Daily/2022-11-27.md",
+    "思考人生/vim编辑器导论班课计划.md",
+    "思考人生/求心2201\"学点没用的\"主题班课计划书.md"
   ]
 }

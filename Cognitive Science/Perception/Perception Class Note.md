@@ -4,7 +4,9 @@
 
 ## Perception Representation 知觉表征
 
-Von Helmholtz: Perception is a process of integration, an unconscious inference. Analysis + Integration.
+Von Helmholtz: Perception is a process of integration, an unconscious inference.
+
+Analysis + Integration.
 
 ## [[Gestalt Psychology]] 格式塔理论
 
