@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dff41764e43574ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "思考人生/求心2201\"学点没用的\"主题班课计划书.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d697154a644c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Psychology/动机.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9354274084649bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1de37606cb60885e",
             "type": "leaf",
             "state": {
@@ -54,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0112aeb418be2a34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cognitive Science/Decision/Decision Class Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "381ee5e750d860b0",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md",
+                "file": "Cognitive Science/Decision/Decision Class Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md",
+                "file": "Cognitive Science/Decision/Decision Class Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md"
+                "file": "Cognitive Science/Decision/Decision Class Notes.md"
               }
             }
           },
@@ -207,17 +182,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "44629a51a47c4867",
+  "active": "0112aeb418be2a34",
   "lastOpenFiles": [
+    "Cognitive Science/Decision/Information Processing as a Paradigm for Decision Making (Summary).md",
+    "思考人生/vim教学/vim简介与基础操作.md",
+    "General Psychology/语言.md",
+    "Cognitive Science/Decision/Judgement and Decision Making (Summary).md",
+    "Cognitive Science/Decision/Decision Class Notes.md",
+    "思考人生/vim编辑器导论班课计划.md",
+    "Daily/2022-12-03.md",
     "Cognitive Science/Perception/Slope Perception Failure (Summary).md",
     "Cognitive Science/Perception/Slope Perception Discussions.md",
-    "Cognitive Science/Decision/Decision Class Notes.md",
-    "General Psychology/动机.md",
-    "General Psychology/语言.md",
-    "General Psychology/意识和注意.md",
-    "General Psychology/思维.md",
-    "Daily/2022-11-27.md",
-    "思考人生/vim编辑器导论班课计划.md",
-    "思考人生/求心2201\"学点没用的\"主题班课计划书.md"
+    "General Psychology/动机.md"
   ]
 }

@@ -47,14 +47,6 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Results": {
-      "Results": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1667560347282
-        }
-      }
-    },
     "model": {
       "model": {
         "currentFile": {
@@ -79,38 +71,6 @@
         }
       }
     },
-    "consciousness": {
-      "consciousness": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667370287899
-        }
-      }
-    },
-    "睡眠是一种特殊的意识状态。人需要de": {
-      "睡眠是一种特殊的意识状态。人需要de": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667373346516
-        }
-      }
-    },
-    "waves": {
-      "waves": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667374231807
-        }
-      }
-    },
-    "结果：符合预期": {
-      "结果：符合预期": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667387019427
-        }
-      }
-    },
     "emotion": {
       "emotion": {
         "currentFile": {
@@ -119,115 +79,11 @@
         }
       }
     },
-    "notes": {
-      "notes": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667519405373
-        }
-      }
-    },
     "Attention": {
       "Attention": {
         "currentFile": {
           "count": 5,
           "lastUpdated": 1667782895582
-        }
-      }
-    },
-    "attention": {
-      "attention": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1667521016053
-        }
-      }
-    },
-    "Blindness": {
-      "Blindness": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667521857757
-        }
-      }
-    },
-    "cerebellum": {
-      "cerebellum": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1667559260801
-        }
-      }
-    },
-    "perception": {
-      "perception": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667558646686
-        }
-      }
-    },
-    "Cerebellum": {
-      "Cerebellum": {
-        "currentFile": {
-          "count": 5,
-          "lastUpdated": 1667560501586
-        }
-      }
-    },
-    "parcellation": {
-      "parcellation": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1667559632036
-        }
-      }
-    },
-    "subdivisions": {
-      "subdivisions": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667559810609
-        }
-      }
-    },
-    "mentalizing": {
-      "mentalizing": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667559993232
-        }
-      }
-    },
-    "Method": {
-      "Method": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667560041092
-        }
-      }
-    },
-    "events": {
-      "events": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667560077327
-        }
-      }
-    },
-    "Mechanical": {
-      "Mechanical": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667560085281
-        }
-      }
-    },
-    "Cerebrum": {
-      "Cerebrum": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1667560494449
         }
       }
     },
@@ -450,8 +306,8 @@
     "Models": {
       "Models": {
         "currentFile": {
-          "count": 4,
-          "lastUpdated": 1668315917004
+          "count": 6,
+          "lastUpdated": 1670033902973
         }
       }
     },
@@ -540,14 +396,378 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1669467925441
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670050290320
         }
       }
     },
     "Theory": {
       "Theory": {
         "currentFile": {
+          "count": 5,
+          "lastUpdated": 1670030564553
+        }
+      }
+    },
+    "period": {
+      "period": {
+        "currentFile": {
           "count": 1,
-          "lastUpdated": 1669943992336
+          "lastUpdated": 1669949310388
+        }
+      }
+    },
+    "Paradigms": {
+      "Paradigms": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669950045082
+        }
+      }
+    },
+    "outcome": {
+      "outcome": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669950304281
+        }
+      }
+    },
+    "Bernoulli": {
+      "Bernoulli": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669950837594
+        }
+      }
+    },
+    "Savage": {
+      "Savage": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669951314196
+        }
+      }
+    },
+    "probability": {
+      "probability": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1669964162524
+        }
+      }
+    },
+    "anomalies": {
+      "anomalies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669964261808
+        }
+      }
+    },
+    "utility": {
+      "utility": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669964732060
+        }
+      }
+    },
+    "Shift": {
+      "Shift": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669964811983
+        }
+      }
+    },
+    "models": {
+      "models": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669966253566
+        }
+      }
+    },
+    "considered": {
+      "considered": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669967685784
+        }
+      }
+    },
+    "influence": {
+      "influence": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670033773575
+        }
+      }
+    },
+    "Under": {
+      "Under": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669971414564
+        }
+      }
+    },
+    "effect": {
+      "effect": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1669971771728
+        }
+      }
+    },
+    "assumptions": {
+      "assumptions": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669971901296
+        }
+      }
+    },
+    "deterministic": {
+      "deterministic": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669972028080
+        }
+      }
+    },
+    "Accumulation": {
+      "Accumulation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669982262787
+        }
+      }
+    },
+    "attribute": {
+      "attribute": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669982355645
+        }
+      }
+    },
+    "accessibility": {
+      "accessibility": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669982358491
+        }
+      }
+    },
+    "accumulation": {
+      "accumulation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669982412591
+        }
+      }
+    },
+    "effects": {
+      "effects": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669982913925
+        }
+      }
+    },
+    "deliberation": {
+      "deliberation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669989735983
+        }
+      }
+    },
+    "Sampling": {
+      "Sampling": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669996665444
+        }
+      }
+    },
+    "potentially": {
+      "potentially": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669999137358
+        }
+      }
+    },
+    "Preferences": {
+      "Preferences": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669999212754
+        }
+      }
+    },
+    "aggregation": {
+      "aggregation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669999438016
+        }
+      }
+    },
+    "Anomalies": {
+      "Anomalies": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1669999588591
+        }
+      }
+    },
+    "attributes": {
+      "attributes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670033769725
+        }
+      }
+    },
+    "Outline": {
+      "Outline": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1670041055598
+        }
+      }
+    },
+    "customizable": {
+      "customizable": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670047697382
+        }
+      }
+    },
+    "Modular": {
+      "Modular": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670050508188
+        }
+      }
+    },
+    "Meaning": {
+      "Meaning": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1670053606210
+        }
+      }
+    },
+    "Timestamp": {
+      "Timestamp": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1670051408267
+        }
+      }
+    },
+    "modes": {
+      "modes": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1670052443569
+        }
+      }
+    },
+    "Register": {
+      "Register": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670052641370
+        }
+      }
+    },
+    "change": {
+      "change": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670053249954
+        }
+      }
+    },
+    "indentation": {
+      "indentation": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670053343825
+        }
+      }
+    },
+    "Insert": {
+      "Insert": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054603533
+        }
+      }
+    },
+    "Visual": {
+      "Visual": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054647183
+        }
+      }
+    },
+    "Normal": {
+      "Normal": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054673143
+        }
+      }
+    },
+    "Command": {
+      "Command": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054688090
+        }
+      }
+    },
+    "Search": {
+      "Search": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054698406
+        }
+      }
+    },
+    "Philosophy": {
+      "Philosophy": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054974585
+        }
+      }
+    },
+    "Declaration": {
+      "Declaration": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670054983656
+        }
+      }
+    },
+    "跨期决策：获利多少+时间": {
+      "跨期决策：获利多少+时间": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1670199085719
         }
       }
     }
