@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61075da172559f54",
+            "id": "8bece3b8ef8cd3a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Psychology/思维.md",
+                "file": "思考人生/vim教学/深入了解vim的normal mode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8bece3b8ef8cd3a5",
+            "id": "01d894bf51f51e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Bionic Reading/citations.md",
+                "file": "General Psychology/能力.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Bionic Reading/citations.md",
+                "file": "General Psychology/能力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Bionic Reading/citations.md",
+                "file": "General Psychology/能力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Bionic Reading/citations.md"
+                "file": "General Psychology/能力.md"
               }
             }
           },
@@ -182,17 +182,17 @@
     "width": 247,
     "collapsed": true
   },
-  "active": "8bece3b8ef8cd3a5",
+  "active": "01d894bf51f51e26",
   "lastOpenFiles": [
-    "General Psychology/思维.md",
-    "Concepts/Bionic Reading/Bionic Reading Research Proposal.md",
+    "思考人生/vim教学/深入了解vim的normal mode.md",
     "Concepts/Bionic Reading/citations.md",
+    "Concepts/Bionic Reading/Bionic Reading Research Proposal.md",
+    "Concepts/Bionic Reading/Screenshot_2022-12-14-07_666x578.png",
+    "Concepts/Bionic Reading/Mathematical-models-of-eye-movements-in-reading.pdf",
+    "Concepts/Bionic Reading/bionic-reading-experiment-design.png",
+    "General Psychology/思维.md",
     "General Psychology/情绪.md",
     "朋辈辅导/寝室非暴力沟通团辅背景与概述.md",
-    "Cognitive Science/Memory/浅谈人类记忆和计算机存储系统在信息提取方面的异同.md",
-    "Cognitive Science/Memory/结合行为与神经技术解密大脑记忆系统.md",
-    "Cognitive Science/Memory/报告大纲.md",
-    "Cognitive Science/Memory/人类记忆与计算机存储(硬盘)系统的异同.md",
-    "Cognitive Science/Visual Search/Moving towards Solutions to Some Enduring Controversies in Visual Search (Summary).md"
+    "Cognitive Science/Memory/浅谈人类记忆和计算机存储系统在信息提取方面的异同.md"
   ]
 }

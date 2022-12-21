@@ -86,7 +86,6 @@ Repeat paradigm: *Next; Repeat; Undo*
 ## **Tips**
 
 - Make changes repeatable
-- Don't repeat yourself
 - Use short operators
 
 ---
